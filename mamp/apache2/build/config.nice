@@ -1,0 +1,35 @@
+#! /bin/sh
+#
+# Created by configure
+
+CC="gcc"; export CC
+CFLAGS="-I/goinfre/myang/php/mamp/common/include -arch x86_64"; export CFLAGS
+CPPFLAGS="-I/goinfre/myang/php/mamp/common/include"; export CPPFLAGS
+LDFLAGS="-L/goinfre/myang/php/mamp/common/lib -liconv"; export LDFLAGS
+"./configure" \
+"--prefix=/goinfre/myang/php/mamp/apache2" \
+"--enable-so" \
+"--enable-mods-shared=most" \
+"--disable-auth_dbm" \
+"--without-berkeley-db" \
+"--enable-deflate" \
+"--enable-ssl" \
+"--with-ssl=/goinfre/myang/php/mamp/common" \
+"--enable-proxy" \
+"--enable-proxy-http" \
+"--enable-proxy-balancer" \
+"--enable-rewrite" \
+"--with-ldap" \
+"--enable-authnz-ldap" \
+"--enable-ldap" \
+"--with-apr=/goinfre/myang/php/mamp/common/bin/apr-1-config" \
+"--with-apu=/goinfre/myang/php/mamp/common/bin/apr-1-config" \
+"--with-pcre=/goinfre/myang/php/mamp/common/bin/pcre-config" \
+"--enable-mpms-shared=all" \
+"--with-nghttp2=/goinfre/myang/php/mamp/common/lib" \
+"--with-mpm=prefork" \
+"CC=gcc" \
+"CFLAGS=-I/goinfre/myang/php/mamp/common/include -arch x86_64" \
+"LDFLAGS=-L/goinfre/myang/php/mamp/common/lib -liconv" \
+"CPPFLAGS=-I/goinfre/myang/php/mamp/common/include" \
+"$@"

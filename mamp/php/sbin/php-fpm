@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /goinfre/myang/php/mamp/scripts/setenv.sh
+
+exec /goinfre/myang/php/mamp/php/sbin/.php-fpm.bin -y /goinfre/myang/php/mamp/php/etc/php-fpm.conf -p /goinfre/myang/php/mamp/php/var/ -c /goinfre/myang/php/mamp/php/etc/php.ini "$@"

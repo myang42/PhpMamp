@@ -1,0 +1,4 @@
+#!/bin/sh
+. /goinfre/myang/php/mamp/php/../scripts/setenv.sh
+
+exec /goinfre/myang/php/mamp/php/bin/composer.phar "$@"

@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /goinfre/myang/php/mamp/scripts/setenv.sh
+
+exec /goinfre/myang/php/mamp/common/bin/.conjure.bin  "$@"

@@ -1,0 +1,6 @@
+#!/bin/sh
+
+ZDOTDIR=/goinfre/myang/php/mamp
+export ZDOTDIR
+
+exec /bin/zsh

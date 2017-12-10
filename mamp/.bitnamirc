@@ -1,0 +1,10 @@
+
+PATH="/goinfre/myang/php/mamp/git/bin:/goinfre/myang/php/mamp/varnish/bin:/goinfre/myang/php/mamp/sqlite/bin:/goinfre/myang/php/mamp/php/bin:/goinfre/myang/php/mamp/mysql/bin:/goinfre/myang/php/mamp/apache2/bin:/goinfre/myang/php/mamp/common/bin:$PATH"
+BITNAMI_ROOT="/goinfre/myang/php/mamp"
+export BITNAMI_ROOT
+
+
+if [ "$BASH" != "" -a -s "/goinfre/myang/php/mamp/git/scripts/git-completion.bash" ]; then
+    . "/goinfre/myang/php/mamp/git/scripts/git-completion.bash"
+fi
+GIT_PS1_SHOWDIRTYSTATE=true

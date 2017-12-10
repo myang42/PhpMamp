@@ -1,0 +1,6 @@
+#!/bin/sh
+
+. /goinfre/myang/php/mamp/scripts/setenv.sh
+SASL_PATH="/goinfre/myang/php/mamp/common/lib/sasl2"
+                export SASL_PATH
+exec /goinfre/myang/php/mamp/common/sbin/.sasldblistusers2.bin -f "/goinfre/myang/php/mamp/common/etc/sasldb2" "$@"

@@ -1,0 +1,378 @@
+[Sun Dec 10 11:44:33.965827 2017] [ssl:warn] [pid 88040] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 11:44:34.017535 2017] [ssl:warn] [pid 88041] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 11:44:34.019185 2017] [mpm_prefork:notice] [pid 88041] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 11:44:34.019229 2017] [core:notice] [pid 88041] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 11:44:36.989649 2017] [mpm_prefork:notice] [pid 88041] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 11:44:39.456879 2017] [ssl:warn] [pid 88077] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 11:44:39.508048 2017] [ssl:warn] [pid 88078] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 11:44:39.509805 2017] [mpm_prefork:notice] [pid 88078] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 11:44:39.509848 2017] [core:notice] [pid 88078] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:08:58.087902 2017] [mpm_prefork:notice] [pid 88078] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:09:02.262190 2017] [ssl:warn] [pid 92130] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:09:02.330936 2017] [ssl:warn] [pid 92131] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:09:02.332611 2017] [mpm_prefork:notice] [pid 92131] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:09:02.332654 2017] [core:notice] [pid 92131] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:14:52.658486 2017] [mpm_prefork:notice] [pid 92131] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:14:56.837766 2017] [ssl:warn] [pid 94114] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:14:56.907937 2017] [ssl:warn] [pid 94115] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:14:56.909651 2017] [mpm_prefork:notice] [pid 94115] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:14:56.909697 2017] [core:notice] [pid 94115] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:16:04.640894 2017] [mpm_prefork:notice] [pid 94115] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:16:08.819973 2017] [ssl:warn] [pid 94406] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:16:08.889698 2017] [ssl:warn] [pid 94407] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:16:08.891433 2017] [mpm_prefork:notice] [pid 94407] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:16:08.891493 2017] [core:notice] [pid 94407] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:16:22.636180 2017] [mpm_prefork:notice] [pid 94407] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:16:26.786249 2017] [ssl:warn] [pid 94498] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:16:26.857397 2017] [ssl:warn] [pid 94499] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:16:26.859101 2017] [mpm_prefork:notice] [pid 94499] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:16:26.859145 2017] [core:notice] [pid 94499] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:16:46.471940 2017] [mpm_prefork:notice] [pid 94499] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:16:50.652642 2017] [ssl:warn] [pid 94591] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:16:50.723857 2017] [ssl:warn] [pid 94592] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:16:50.725454 2017] [mpm_prefork:notice] [pid 94592] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:16:50.725495 2017] [core:notice] [pid 94592] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:16:55.096874 2017] [php7:emerg] [pid 94593] [client 127.0.0.1:61647] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /goinfre/myang/php/mamp/apps/j03/htdocs/print_get.php on line 4
+[Sun Dec 10 12:19:22.494478 2017] [mpm_prefork:notice] [pid 94592] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:19:26.675088 2017] [ssl:warn] [pid 95287] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:19:26.745467 2017] [ssl:warn] [pid 95288] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:19:26.747253 2017] [mpm_prefork:notice] [pid 95288] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:19:26.747311 2017] [core:notice] [pid 95288] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:21:49.580362 2017] [mpm_prefork:notice] [pid 95288] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:21:53.789290 2017] [ssl:warn] [pid 95806] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:21:53.859698 2017] [ssl:warn] [pid 95807] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:21:53.861332 2017] [mpm_prefork:notice] [pid 95807] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:21:53.861374 2017] [core:notice] [pid 95807] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:22:24.986900 2017] [mpm_prefork:notice] [pid 95807] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:22:29.132651 2017] [ssl:warn] [pid 95966] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:22:29.191023 2017] [ssl:warn] [pid 95967] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:22:29.193092 2017] [mpm_prefork:notice] [pid 95967] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:22:29.193142 2017] [core:notice] [pid 95967] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:22:31.528938 2017] [php7:notice] [pid 95968] [client 127.0.0.1:61734] PHP Notice:  Array to string conversion in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 12:22:41.446312 2017] [mpm_prefork:notice] [pid 95967] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:22:45.574396 2017] [ssl:warn] [pid 96055] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:22:45.629337 2017] [ssl:warn] [pid 96056] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:22:45.631042 2017] [mpm_prefork:notice] [pid 96056] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:22:45.631101 2017] [core:notice] [pid 96056] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:22:47.664108 2017] [php7:notice] [pid 96057] [client 127.0.0.1:61737] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 12:22:54.526967 2017] [mpm_prefork:notice] [pid 96056] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:22:58.672017 2017] [ssl:warn] [pid 96811] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:22:58.730308 2017] [ssl:warn] [pid 96813] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:22:58.732092 2017] [mpm_prefork:notice] [pid 96813] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:22:58.732134 2017] [core:notice] [pid 96813] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:23:00.887335 2017] [php7:notice] [pid 96817] [client 127.0.0.1:61746] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 2
+[Sun Dec 10 12:24:49.214410 2017] [mpm_prefork:notice] [pid 96813] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:24:53.394767 2017] [ssl:warn] [pid 97309] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:24:53.464660 2017] [ssl:warn] [pid 97310] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:24:53.466356 2017] [mpm_prefork:notice] [pid 97310] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:24:53.466402 2017] [core:notice] [pid 97310] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:25:11.368130 2017] [mpm_prefork:notice] [pid 97310] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:25:15.517749 2017] [ssl:warn] [pid 97426] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:25:15.576032 2017] [ssl:warn] [pid 97427] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:25:15.577800 2017] [mpm_prefork:notice] [pid 97427] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:25:15.577847 2017] [core:notice] [pid 97427] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:25:25.273467 2017] [php7:emerg] [pid 97428] [client 127.0.0.1:61798] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 12:25:33.423182 2017] [php7:emerg] [pid 97429] [client 127.0.0.1:61799] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 12:25:39.599560 2017] [php7:emerg] [pid 97430] [client 127.0.0.1:61801] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 12:26:04.805097 2017] [php7:emerg] [pid 97431] [client 127.0.0.1:61804] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 12:26:27.116572 2017] [mpm_prefork:notice] [pid 97427] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:26:31.263739 2017] [ssl:warn] [pid 97720] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:26:31.319991 2017] [ssl:warn] [pid 97722] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:26:31.321662 2017] [mpm_prefork:notice] [pid 97722] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:26:31.321705 2017] [core:notice] [pid 97722] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:26:36.179372 2017] [php7:emerg] [pid 97723] [client 127.0.0.1:61812] PHP Parse error:  syntax error, unexpected 'as' (T_AS) in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 12:27:19.535156 2017] [mpm_prefork:notice] [pid 97722] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:27:23.685170 2017] [ssl:warn] [pid 97942] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:27:23.743315 2017] [ssl:warn] [pid 97943] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:27:23.745449 2017] [mpm_prefork:notice] [pid 97943] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:27:23.745499 2017] [core:notice] [pid 97943] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:27:26.034291 2017] [php7:emerg] [pid 97944] [client 127.0.0.1:61837] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 12:27:27.713555 2017] [php7:emerg] [pid 97945] [client 127.0.0.1:61839] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 12:28:17.370149 2017] [mpm_prefork:notice] [pid 97943] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:28:21.541261 2017] [ssl:warn] [pid 98173] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:28:21.630046 2017] [ssl:warn] [pid 98174] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:28:21.635330 2017] [mpm_prefork:notice] [pid 98174] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:28:21.635379 2017] [core:notice] [pid 98174] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:28:25.470325 2017] [php7:notice] [pid 98175] [client 127.0.0.1:61895] PHP Notice:  Undefined variable: elem in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 12:28:25.470427 2017] [php7:notice] [pid 98175] [client 127.0.0.1:61895] PHP Notice:  Undefined variable: value in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 12:28:25.470456 2017] [php7:notice] [pid 98175] [client 127.0.0.1:61895] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 4
+[Sun Dec 10 12:29:16.595582 2017] [mpm_prefork:notice] [pid 98174] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:29:20.733844 2017] [ssl:warn] [pid 98423] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:29:20.788223 2017] [ssl:warn] [pid 98424] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:29:20.790015 2017] [mpm_prefork:notice] [pid 98424] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:29:20.790056 2017] [core:notice] [pid 98424] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:29:23.996563 2017] [php7:notice] [pid 98425] [client 127.0.0.1:61908] PHP Notice:  Undefined variable: elem in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 12:29:23.996661 2017] [php7:notice] [pid 98425] [client 127.0.0.1:61908] PHP Notice:  Undefined variable: value in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 12:29:23.996687 2017] [php7:notice] [pid 98425] [client 127.0.0.1:61908] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 4
+[Sun Dec 10 12:30:32.302935 2017] [mpm_prefork:notice] [pid 98424] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 12:30:36.472564 2017] [ssl:warn] [pid 98711] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:30:36.567622 2017] [ssl:warn] [pid 98712] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 12:30:36.569242 2017] [mpm_prefork:notice] [pid 98712] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 12:30:36.569283 2017] [core:notice] [pid 98712] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 12:30:39.136411 2017] [php7:notice] [pid 98713] [client 127.0.0.1:61973] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 4
+[Sun Dec 10 13:06:15.005984 2017] [mpm_prefork:notice] [pid 98712] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 13:06:19.166102 2017] [ssl:warn] [pid 9176] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 13:06:19.236294 2017] [ssl:warn] [pid 9177] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 13:06:19.237999 2017] [mpm_prefork:notice] [pid 9177] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 13:06:19.238041 2017] [core:notice] [pid 9177] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 13:06:25.969501 2017] [php7:warn] [pid 9178] [client 127.0.0.1:62838] PHP Warning:  setcookie() expects parameter 1 to be string, array given in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 13:06:25.969599 2017] [php7:notice] [pid 9178] [client 127.0.0.1:62838] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:06:46.705440 2017] [mpm_prefork:notice] [pid 9177] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 13:06:50.843608 2017] [ssl:warn] [pid 9296] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 13:06:50.898914 2017] [ssl:warn] [pid 9297] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 13:06:50.900824 2017] [mpm_prefork:notice] [pid 9297] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 13:06:50.900874 2017] [core:notice] [pid 9297] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 13:07:05.359575 2017] [php7:warn] [pid 9298] [client 127.0.0.1:62846] PHP Warning:  setcookie() expects parameter 1 to be string, array given in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 13:07:05.359683 2017] [php7:notice] [pid 9298] [client 127.0.0.1:62846] PHP Notice:  Array to string conversion in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 6
+[Sun Dec 10 13:07:05.359703 2017] [php7:notice] [pid 9298] [client 127.0.0.1:62846] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:07:51.559187 2017] [mpm_prefork:notice] [pid 9297] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 13:07:55.708904 2017] [ssl:warn] [pid 9560] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 13:07:55.764682 2017] [ssl:warn] [pid 9561] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 13:07:55.766260 2017] [mpm_prefork:notice] [pid 9561] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 13:07:55.766302 2017] [core:notice] [pid 9561] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 13:07:58.812052 2017] [php7:warn] [pid 9562] [client 127.0.0.1:62855] PHP Warning:  setcookie() expects parameter 1 to be string, array given in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 13:07:58.812205 2017] [php7:notice] [pid 9562] [client 127.0.0.1:62855] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:08:19.952547 2017] [mpm_prefork:notice] [pid 9561] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 13:08:24.093675 2017] [ssl:warn] [pid 9723] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 13:08:24.151724 2017] [ssl:warn] [pid 9724] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 13:08:24.153464 2017] [mpm_prefork:notice] [pid 9724] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 13:08:24.153508 2017] [core:notice] [pid 9724] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 13:08:26.959873 2017] [php7:warn] [pid 9725] [client 127.0.0.1:62861] PHP Warning:  setcookie() expects parameter 1 to be string, array given in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 13:08:26.959962 2017] [php7:notice] [pid 9725] [client 127.0.0.1:62861] PHP Notice:  Array to string conversion in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 6
+[Sun Dec 10 13:08:26.959991 2017] [php7:notice] [pid 9725] [client 127.0.0.1:62861] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:09:34.245011 2017] [php7:warn] [pid 9726] [client 127.0.0.1:62883] PHP Warning:  setcookie() expects parameter 1 to be string, array given in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 13:09:34.245139 2017] [php7:notice] [pid 9726] [client 127.0.0.1:62883] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:10:55.423406 2017] [php7:emerg] [pid 9727] [client 127.0.0.1:62906] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 6
+[Sun Dec 10 13:11:33.038705 2017] [php7:emerg] [pid 9728] [client 127.0.0.1:62911] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 6
+[Sun Dec 10 13:11:42.844288 2017] [php7:warn] [pid 9725] [client 127.0.0.1:62913] PHP Warning:  setcookie() expects parameter 1 to be string, array given in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 13:11:42.844359 2017] [php7:notice] [pid 9725] [client 127.0.0.1:62913] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:13:50.662855 2017] [php7:warn] [pid 9729] [client 127.0.0.1:63036] PHP Warning:  setcookie() expects parameter 1 to be string, array given in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 13:13:50.672535 2017] [php7:notice] [pid 9729] [client 127.0.0.1:63036] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:15:32.059041 2017] [php7:notice] [pid 9726] [client 127.0.0.1:63056] PHP Notice:  Undefined index: value in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 13:15:32.071086 2017] [php7:notice] [pid 9726] [client 127.0.0.1:63056] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:15:48.624865 2017] [php7:notice] [pid 9728] [client 127.0.0.1:63066] PHP Notice:  Undefined index: value in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 13:15:48.637375 2017] [php7:notice] [pid 9728] [client 127.0.0.1:63066] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:16:14.357415 2017] [php7:notice] [pid 9727] [client 127.0.0.1:63085] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:17:13.973788 2017] [php7:notice] [pid 9725] [client 127.0.0.1:63095] PHP Notice:  Array to string conversion in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:17:13.973859 2017] [php7:notice] [pid 9725] [client 127.0.0.1:63095] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:17:38.011233 2017] [php7:notice] [pid 9726] [client 127.0.0.1:63101] PHP Notice:  Array to string conversion in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:17:38.011295 2017] [php7:notice] [pid 9726] [client 127.0.0.1:63101] PHP Notice:  Undefined offset: 0 in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:18:18.768870 2017] [php7:notice] [pid 9729] [client 127.0.0.1:63110] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:18:35.168616 2017] [php7:notice] [pid 9728] [client 127.0.0.1:63112] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:18:46.168680 2017] [php7:notice] [pid 9727] [client 127.0.0.1:63114] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:19:32.366032 2017] [php7:notice] [pid 9725] [client 127.0.0.1:63123] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:19:46.261914 2017] [php7:notice] [pid 9726] [client 127.0.0.1:63125] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:19:54.653639 2017] [php7:notice] [pid 9729] [client 127.0.0.1:63127] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:24:32.176955 2017] [php7:notice] [pid 9727] [client 127.0.0.1:63190] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:41:45.251572 2017] [php7:emerg] [pid 9728] [client 127.0.0.1:63445] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 6
+[Sun Dec 10 13:41:53.087814 2017] [php7:notice] [pid 9725] [client 127.0.0.1:63447] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 9
+[Sun Dec 10 13:42:13.511678 2017] [php7:notice] [pid 9726] [client 127.0.0.1:63452] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 9
+[Sun Dec 10 13:42:30.557882 2017] [php7:notice] [pid 9729] [client 127.0.0.1:63455] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 9
+[Sun Dec 10 13:42:55.588933 2017] [php7:notice] [pid 9727] [client 127.0.0.1:63459] PHP Notice:  Undefined variable: val in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:42:55.589056 2017] [php7:notice] [pid 9727] [client 127.0.0.1:63459] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 9
+[Sun Dec 10 13:43:05.172250 2017] [php7:notice] [pid 9728] [client 127.0.0.1:63462] PHP Notice:  Undefined variable: val in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:43:05.172334 2017] [php7:notice] [pid 9728] [client 127.0.0.1:63462] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 9
+[Sun Dec 10 13:44:14.498356 2017] [php7:notice] [pid 9725] [client 127.0.0.1:63475] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 9
+[Sun Dec 10 13:45:27.182858 2017] [php7:notice] [pid 9729] [client 127.0.0.1:63490] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 9
+[Sun Dec 10 13:45:27.193370 2017] [php7:notice] [pid 9729] [client 127.0.0.1:63490] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:46:08.243567 2017] [php7:notice] [pid 9726] [client 127.0.0.1:63498] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 9
+[Sun Dec 10 13:46:08.243640 2017] [php7:notice] [pid 9726] [client 127.0.0.1:63498] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:47:33.630707 2017] [php7:notice] [pid 9727] [client 127.0.0.1:63511] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:47:33.641250 2017] [php7:notice] [pid 9727] [client 127.0.0.1:63511] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:47:45.744926 2017] [php7:notice] [pid 9728] [client 127.0.0.1:63513] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:47:45.749438 2017] [php7:notice] [pid 9728] [client 127.0.0.1:63513] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:47:57.555090 2017] [php7:notice] [pid 9725] [client 127.0.0.1:63529] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:47:57.565886 2017] [php7:notice] [pid 9725] [client 127.0.0.1:63529] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:48:14.344477 2017] [php7:notice] [pid 9726] [client 127.0.0.1:63542] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:48:14.348973 2017] [php7:notice] [pid 9726] [client 127.0.0.1:63542] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:48:22.181545 2017] [php7:notice] [pid 9729] [client 127.0.0.1:63547] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:48:22.181618 2017] [php7:notice] [pid 9729] [client 127.0.0.1:63547] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:48:39.156504 2017] [php7:notice] [pid 9727] [client 127.0.0.1:63552] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:48:39.156566 2017] [php7:notice] [pid 9727] [client 127.0.0.1:63552] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:49:36.777617 2017] [php7:notice] [pid 9725] [client 127.0.0.1:63582] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:49:36.777682 2017] [php7:notice] [pid 9725] [client 127.0.0.1:63582] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:49:50.690272 2017] [php7:notice] [pid 9726] [client 127.0.0.1:63585] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:49:50.690341 2017] [php7:notice] [pid 9726] [client 127.0.0.1:63585] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:50:29.607030 2017] [php7:notice] [pid 9728] [client 127.0.0.1:63592] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:50:29.607094 2017] [php7:notice] [pid 9728] [client 127.0.0.1:63592] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:50:32.590904 2017] [php7:notice] [pid 9727] [client 127.0.0.1:63594] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:50:32.590968 2017] [php7:notice] [pid 9727] [client 127.0.0.1:63594] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:50:57.045993 2017] [php7:notice] [pid 9729] [client 127.0.0.1:63598] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:50:57.046059 2017] [php7:notice] [pid 9729] [client 127.0.0.1:63598] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:51:01.437356 2017] [php7:notice] [pid 9726] [client 127.0.0.1:63599] PHP Notice:  Undefined index: namc in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:51:01.437419 2017] [php7:notice] [pid 9726] [client 127.0.0.1:63599] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:53:58.898308 2017] [php7:notice] [pid 9728] [client 127.0.0.1:63651] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:53:58.909903 2017] [php7:notice] [pid 9728] [client 127.0.0.1:63651] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:54:09.704668 2017] [mpm_prefork:notice] [pid 9724] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 13:54:13.870921 2017] [ssl:warn] [pid 22337] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 13:54:13.958141 2017] [ssl:warn] [pid 22338] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 13:54:13.960138 2017] [mpm_prefork:notice] [pid 22338] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 13:54:13.960184 2017] [core:notice] [pid 22338] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 13:54:17.126942 2017] [php7:notice] [pid 22339] [client 127.0.0.1:63653] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:54:17.127055 2017] [php7:notice] [pid 22339] [client 127.0.0.1:63653] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:54:59.716287 2017] [php7:notice] [pid 22340] [client 127.0.0.1:63660] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:54:59.716412 2017] [php7:notice] [pid 22340] [client 127.0.0.1:63660] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:55:16.947130 2017] [php7:notice] [pid 22341] [client 127.0.0.1:63664] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 10
+[Sun Dec 10 13:55:16.947235 2017] [php7:notice] [pid 22341] [client 127.0.0.1:63664] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 11
+[Sun Dec 10 13:55:21.565314 2017] [php7:notice] [pid 22343] [client 127.0.0.1:63666] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:55:21.565608 2017] [php7:notice] [pid 22343] [client 127.0.0.1:63666] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:55:41.705580 2017] [php7:notice] [pid 22342] [client 127.0.0.1:63673] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:55:41.705694 2017] [php7:notice] [pid 22342] [client 127.0.0.1:63673] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:55:43.017167 2017] [php7:notice] [pid 22339] [client 127.0.0.1:63677] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:55:43.017233 2017] [php7:notice] [pid 22339] [client 127.0.0.1:63677] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:55:43.616105 2017] [php7:notice] [pid 22341] [client 127.0.0.1:63678] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:55:43.616179 2017] [php7:notice] [pid 22341] [client 127.0.0.1:63678] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:55:44.096055 2017] [php7:notice] [pid 22340] [client 127.0.0.1:63679] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:55:44.096123 2017] [php7:notice] [pid 22340] [client 127.0.0.1:63679] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:55:44.736081 2017] [php7:notice] [pid 22343] [client 127.0.0.1:63680] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:55:44.736153 2017] [php7:notice] [pid 22343] [client 127.0.0.1:63680] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:56:10.502842 2017] [php7:notice] [pid 22339] [client 127.0.0.1:63689] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:56:10.502907 2017] [php7:notice] [pid 22339] [client 127.0.0.1:63689] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:56:11.766664 2017] [php7:notice] [pid 22342] [client 127.0.0.1:63690] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:56:11.766732 2017] [php7:notice] [pid 22342] [client 127.0.0.1:63690] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:56:12.976547 2017] [php7:notice] [pid 22341] [client 127.0.0.1:63692] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:56:12.976643 2017] [php7:notice] [pid 22341] [client 127.0.0.1:63692] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:57:19.915568 2017] [php7:emerg] [pid 22340] [client 127.0.0.1:63701] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:57:21.134774 2017] [php7:emerg] [pid 22343] [client 127.0.0.1:63702] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:57:38.419911 2017] [php7:notice] [pid 22339] [client 127.0.0.1:63707] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:57:38.419977 2017] [php7:notice] [pid 22339] [client 127.0.0.1:63707] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:57:39.666556 2017] [php7:notice] [pid 22342] [client 127.0.0.1:63708] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:57:39.666630 2017] [php7:notice] [pid 22342] [client 127.0.0.1:63708] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:57:40.426622 2017] [php7:notice] [pid 22341] [client 127.0.0.1:63709] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:57:40.426686 2017] [php7:notice] [pid 22341] [client 127.0.0.1:63709] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:58:35.016350 2017] [php7:notice] [pid 22340] [client 127.0.0.1:63729] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:58:35.016428 2017] [php7:notice] [pid 22340] [client 127.0.0.1:63729] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:58:36.063967 2017] [php7:notice] [pid 22339] [client 127.0.0.1:63733] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:58:36.064033 2017] [php7:notice] [pid 22339] [client 127.0.0.1:63733] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:58:36.784942 2017] [php7:notice] [pid 22343] [client 127.0.0.1:63734] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:58:36.785006 2017] [php7:notice] [pid 22343] [client 127.0.0.1:63734] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:58:37.520843 2017] [php7:notice] [pid 22342] [client 127.0.0.1:63735] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:58:37.520910 2017] [php7:notice] [pid 22342] [client 127.0.0.1:63735] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:58:38.179739 2017] [php7:notice] [pid 22341] [client 127.0.0.1:63736] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:58:38.179810 2017] [php7:notice] [pid 22341] [client 127.0.0.1:63736] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:58:38.707909 2017] [php7:notice] [pid 22340] [client 127.0.0.1:63737] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 13:58:38.707966 2017] [php7:notice] [pid 22340] [client 127.0.0.1:63737] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:58:42.767356 2017] [mpm_prefork:notice] [pid 22338] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 13:58:46.943378 2017] [ssl:warn] [pid 24201] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 13:58:47.020969 2017] [ssl:warn] [pid 24202] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 13:58:47.022784 2017] [mpm_prefork:notice] [pid 24202] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 13:58:47.022826 2017] [core:notice] [pid 24202] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 13:58:51.980815 2017] [php7:notice] [pid 24203] [client 127.0.0.1:63739] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:58:51.980945 2017] [php7:notice] [pid 24203] [client 127.0.0.1:63739] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 9
+[Sun Dec 10 13:58:54.153815 2017] [php7:notice] [pid 24204] [client 127.0.0.1:63742] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 13:58:54.153928 2017] [php7:notice] [pid 24204] [client 127.0.0.1:63742] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 9
+[Sun Dec 10 14:00:23.215360 2017] [mpm_prefork:notice] [pid 24202] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 14:00:27.375942 2017] [ssl:warn] [pid 24612] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 14:00:27.471776 2017] [ssl:warn] [pid 24613] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 14:00:27.473418 2017] [mpm_prefork:notice] [pid 24613] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 14:00:27.473462 2017] [core:notice] [pid 24613] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 14:00:49.245334 2017] [php7:notice] [pid 24614] [client 127.0.0.1:63803] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 14:00:49.245469 2017] [php7:notice] [pid 24614] [client 127.0.0.1:63803] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 14:01:05.244822 2017] [mpm_prefork:notice] [pid 24613] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 14:01:09.395037 2017] [ssl:warn] [pid 24798] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 14:01:09.451056 2017] [ssl:warn] [pid 24799] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 14:01:09.452837 2017] [mpm_prefork:notice] [pid 24799] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 14:01:09.452882 2017] [core:notice] [pid 24799] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 14:01:12.380337 2017] [php7:notice] [pid 24800] [client 127.0.0.1:63809] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 14:01:12.380443 2017] [php7:notice] [pid 24800] [client 127.0.0.1:63809] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 14:01:14.091282 2017] [php7:notice] [pid 24801] [client 127.0.0.1:63810] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 14:01:14.092050 2017] [php7:notice] [pid 24801] [client 127.0.0.1:63810] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 14:01:47.833003 2017] [php7:notice] [pid 24802] [client 127.0.0.1:63814] PHP Notice:  Undefined index: action in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 14:01:47.833122 2017] [php7:notice] [pid 24802] [client 127.0.0.1:63814] PHP Notice:  Array to string conversion in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 14
+[Sun Dec 10 14:01:52.024123 2017] [php7:notice] [pid 24802] [client 127.0.0.1:63814] PHP Notice:  Undefined index: action in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 14:01:52.024198 2017] [php7:notice] [pid 24802] [client 127.0.0.1:63814] PHP Notice:  Array to string conversion in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 14
+[Sun Dec 10 14:01:56.343473 2017] [php7:notice] [pid 24800] [client 127.0.0.1:63817] PHP Notice:  Undefined index: Biscuit in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 14:01:56.343540 2017] [php7:notice] [pid 24800] [client 127.0.0.1:63817] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 14:02:15.897858 2017] [php7:notice] [pid 24804] [client 127.0.0.1:63823] PHP Notice:  Undefined index: Cookie in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 14:02:15.897981 2017] [php7:notice] [pid 24804] [client 127.0.0.1:63823] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 14:02:15.898020 2017] [php7:notice] [pid 24804] [client 127.0.0.1:63823] PHP Notice:  Array to string conversion in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 14
+[Sun Dec 10 14:02:39.833953 2017] [php7:notice] [pid 24936] [client 127.0.0.1:63828] PHP Notice:  Undefined index: cookie in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 14:02:39.834072 2017] [php7:notice] [pid 24936] [client 127.0.0.1:63828] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 14:03:27.964963 2017] [php7:notice] [pid 24939] [client 127.0.0.1:63836] PHP Notice:  Undefined index: cookie in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 14:03:27.975915 2017] [php7:notice] [pid 24939] [client 127.0.0.1:63836] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 14:03:45.492062 2017] [php7:notice] [pid 24940] [client 127.0.0.1:63839] PHP Notice:  Undefined index: cookie in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 14:03:45.492170 2017] [php7:notice] [pid 24940] [client 127.0.0.1:63839] PHP Notice:  Undefined variable: HTTP_COOKIE_VARS in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 8
+[Sun Dec 10 14:05:47.898013 2017] [php7:notice] [pid 24800] [client 127.0.0.1:63861] PHP Notice:  Array to string conversion in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 14:09:48.177280 2017] [php7:notice] [pid 24803] [client 127.0.0.1:63929] PHP Notice:  Undefined variable: _COOKIES in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 4
+[Sun Dec 10 14:10:00.200605 2017] [php7:notice] [pid 24800] [client 127.0.0.1:63932] PHP Notice:  Undefined variable: _COOKIES in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 4
+[Sun Dec 10 14:10:33.594818 2017] [mpm_prefork:notice] [pid 24799] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 14:10:37.763432 2017] [ssl:warn] [pid 27628] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 14:10:37.867734 2017] [ssl:warn] [pid 27629] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 14:10:37.869413 2017] [mpm_prefork:notice] [pid 27629] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 14:10:37.869453 2017] [core:notice] [pid 27629] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 14:10:49.703969 2017] [mpm_prefork:notice] [pid 27629] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 14:10:53.845355 2017] [ssl:warn] [pid 27704] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 14:10:53.901585 2017] [ssl:warn] [pid 27705] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 14:10:53.903275 2017] [mpm_prefork:notice] [pid 27705] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 14:10:53.903317 2017] [core:notice] [pid 27705] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 14:11:05.686247 2017] [php7:notice] [pid 27708] [client 127.0.0.1:63945] PHP Notice:  Undefined index: value in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 14:11:07.792286 2017] [php7:notice] [pid 27709] [client 127.0.0.1:63946] PHP Notice:  Undefined index: cookie in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 14:11:36.388412 2017] [php7:notice] [pid 27706] [client 127.0.0.1:63955] PHP Notice:  Undefined index: value in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 7
+[Sun Dec 10 14:11:38.307875 2017] [php7:notice] [pid 27709] [client 127.0.0.1:63956] PHP Notice:  Undefined index: cookie in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 14:12:41.933698 2017] [mpm_prefork:notice] [pid 27705] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 14:12:46.119675 2017] [ssl:warn] [pid 28199] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 14:12:46.189777 2017] [ssl:warn] [pid 28200] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 14:12:46.191589 2017] [mpm_prefork:notice] [pid 28200] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 14:12:46.191635 2017] [core:notice] [pid 28200] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 14:12:57.873977 2017] [php7:notice] [pid 28204] [client 127.0.0.1:63977] PHP Notice:  Undefined index: cookie in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 14:13:17.479457 2017] [php7:notice] [pid 28201] [client 127.0.0.1:63981] PHP Notice:  Undefined index: patate in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 14:13:27.766318 2017] [php7:notice] [pid 28202] [client 127.0.0.1:63984] PHP Notice:  Undefined index: patate in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 14:14:07.380380 2017] [php7:notice] [pid 28201] [client 127.0.0.1:63992] PHP Notice:  Undefined index: value in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 14:14:23.123276 2017] [php7:notice] [pid 28205] [client 127.0.0.1:64005] PHP Notice:  Undefined index: value in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 3
+[Sun Dec 10 14:14:33.874763 2017] [php7:notice] [pid 28202] [client 127.0.0.1:64009] PHP Notice:  Undefined index: patate in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 14:15:16.657455 2017] [php7:notice] [pid 28205] [client 127.0.0.1:64022] PHP Notice:  Undefined index: cookie in /goinfre/myang/php/mamp/apps/j03/htdocs/cookie_crisp.php on line 5
+[Sun Dec 10 14:49:39.984614 2017] [mpm_prefork:notice] [pid 28200] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 14:49:44.078015 2017] [ssl:warn] [pid 38181] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 14:49:44.172872 2017] [ssl:warn] [pid 38182] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 14:49:44.174638 2017] [mpm_prefork:notice] [pid 38182] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 14:49:44.174685 2017] [core:notice] [pid 38182] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 14:51:38.991109 2017] [mpm_prefork:notice] [pid 38182] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 14:51:43.230953 2017] [ssl:warn] [pid 39385] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 14:51:43.305394 2017] [ssl:warn] [pid 39386] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 14:51:43.307218 2017] [mpm_prefork:notice] [pid 39386] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 14:51:43.307264 2017] [core:notice] [pid 39386] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 16:17:30.214667 2017] [mpm_prefork:notice] [pid 39386] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 16:17:34.341930 2017] [ssl:warn] [pid 62851] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 16:17:34.462517 2017] [ssl:warn] [pid 62852] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 16:17:34.464214 2017] [mpm_prefork:notice] [pid 62852] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 16:17:34.464255 2017] [core:notice] [pid 62852] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 16:20:49.149928 2017] [mpm_prefork:notice] [pid 62852] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 16:20:53.271890 2017] [ssl:warn] [pid 63539] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 16:20:53.342338 2017] [ssl:warn] [pid 63540] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 16:20:53.344612 2017] [mpm_prefork:notice] [pid 63540] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 16:20:53.344661 2017] [core:notice] [pid 63540] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 16:21:27.558806 2017] [mpm_prefork:notice] [pid 63540] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 16:21:31.645450 2017] [ssl:warn] [pid 63685] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 16:21:31.702321 2017] [ssl:warn] [pid 63686] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 16:21:31.703987 2017] [mpm_prefork:notice] [pid 63686] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 16:21:31.704032 2017] [core:notice] [pid 63686] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 16:21:40.298810 2017] [mpm_prefork:notice] [pid 63686] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 16:21:44.452287 2017] [ssl:warn] [pid 63783] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 16:21:44.540898 2017] [ssl:warn] [pid 63784] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 16:21:44.542757 2017] [mpm_prefork:notice] [pid 63784] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 16:21:44.542808 2017] [core:notice] [pid 63784] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 16:40:39.623854 2017] [mpm_prefork:notice] [pid 63784] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 16:40:43.743770 2017] [ssl:warn] [pid 69159] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 16:40:43.864836 2017] [ssl:warn] [pid 69160] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 16:40:43.866544 2017] [mpm_prefork:notice] [pid 69160] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 16:40:43.866590 2017] [core:notice] [pid 69160] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 17:30:02.714341 2017] [mpm_prefork:notice] [pid 69160] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 17:30:06.922090 2017] [ssl:warn] [pid 83965] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 17:30:07.034649 2017] [ssl:warn] [pid 83966] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 17:30:07.036490 2017] [mpm_prefork:notice] [pid 83966] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 17:30:07.036555 2017] [core:notice] [pid 83966] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 17:30:23.658661 2017] [mpm_prefork:notice] [pid 83966] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 17:30:27.803313 2017] [ssl:warn] [pid 84054] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 17:30:27.857730 2017] [ssl:warn] [pid 84055] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 17:30:27.859474 2017] [mpm_prefork:notice] [pid 84055] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 17:30:27.859517 2017] [core:notice] [pid 84055] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 17:30:45.305415 2017] [php7:error] [pid 84058] [client 127.0.0.1:52091] script '/goinfre/myang/php/mamp/apps/j03/htdocs/member_only.php' not found or unable to stat
+[Sun Dec 10 17:30:48.898326 2017] [php7:warn] [pid 84058] [client 127.0.0.1:52091] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, array given in /goinfre/myang/php/mamp/apps/j03/htdocs/members_only.php on line 2
+[Sun Dec 10 17:41:06.252994 2017] [php7:warn] [pid 84103] [client 127.0.0.1:52206] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, array given in /goinfre/myang/php/mamp/apps/j03/htdocs/members_only.php on line 2
+[Sun Dec 10 17:42:09.193731 2017] [php7:warn] [pid 84057] [client 127.0.0.1:52218] PHP Warning:  file_get_contents() expects parameter 1 to be a valid path, array given in /goinfre/myang/php/mamp/apps/j03/htdocs/members_only.php on line 2
+[Sun Dec 10 17:44:25.545115 2017] [mpm_prefork:notice] [pid 84055] AH00169: caught SIGTERM, shutting down
+[Sun Dec 10 17:44:29.724816 2017] [ssl:warn] [pid 87863] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 17:44:29.795069 2017] [ssl:warn] [pid 87864] AH01909: localhost:8443:0 server certificate does NOT include an ID which matches the server name
+[Sun Dec 10 17:44:29.796695 2017] [mpm_prefork:notice] [pid 87864] AH00163: Apache/2.4.29 (Unix) PHP/7.1.12 OpenSSL/1.0.2m configured -- resuming normal operations
+[Sun Dec 10 17:44:29.796750 2017] [core:notice] [pid 87864] AH00094: Command line: '/goinfre/myang/php/mamp/apache2/bin/httpd.bin -f /goinfre/myang/php/mamp/apache2/conf/httpd.conf'
+[Sun Dec 10 19:07:46.415040 2017] [mpm_prefork:notice] [pid 87864] AH00169: caught SIGTERM, shutting down

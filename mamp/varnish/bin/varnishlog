@@ -1,0 +1,5 @@
+#!/bin/sh
+
+. /goinfre/myang/php/mamp/scripts/setenv.sh
+
+exec /goinfre/myang/php/mamp/varnish/bin/.varnishlog.bin -n /goinfre/myang/php/mamp/varnish/var/varnish "$@"
